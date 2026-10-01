@@ -17,7 +17,7 @@ Whisper Captions is a live streaming platform that automatically generates and s
 
 The platform receives a live video stream, processes speech in the audio track, generates captions with timestamps, and delivers them to viewers synchronized with playback. The system is built to be modular, scalable, and easy to extend.
 
-![Demo](/assets/captions-demo.mp4)
+https://github.com/user-attachments/assets/7fe1138a-782a-4548-b0aa-e4ec1e76bd1c
 
 ## Main Features
 
